@@ -9,8 +9,8 @@ Used when the output is categorical.
 
 Common Algorithms:
 
-Logistic Regression
-K-Nearest Neighbors (KNN)
+Logistic Regression , 
+K-Nearest Neighbors (KNN) , 
 Decision Tree
 
 
@@ -19,5 +19,5 @@ Used when the output is continuous numeric value.
 
 Common Algorithms:
 
-Linear Regression
+Linear Regression , 
 Multi-linear Regression
