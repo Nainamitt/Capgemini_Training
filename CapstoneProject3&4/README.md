@@ -1,6 +1,6 @@
-Project 3
 
-# Smart Marketing Prediction System
+
+# Project 3 ---- Smart Marketing Prediction System
 
 This project builds a machine learning pipeline that predicts whether a customer will purchase a product during a website session.
 
@@ -20,9 +20,9 @@ Help companies target marketing campaigns toward customers who are likely to buy
 
 
 
-Project 4
 
-# Smart Traffic Sign Recognition System
+
+# Project 4 ---- Smart Traffic Sign Recognition System
 
 This project implements a Perceptron-based neural network to classify traffic signs.
 
