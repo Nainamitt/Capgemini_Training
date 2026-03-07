@@ -1,6 +1,6 @@
 📘 Daily Class Tasks Repository
 
-This repository contains all the daily tasks, quizzes, code implementations, and results completed during my classes. It serves as a structured record of my continuous learning and hands-on practice in Data Science and Machine Learning using Python.
+This repository contains all the daily tasks, quizzes, code implementations, and results completed during my classes. It serves as a structured record of my continuous learning and hands-on practice in Data Science , Machine Learning and Deep learning using Python.
 
 🚀 Overview
 
@@ -18,13 +18,11 @@ The repository includes implementations using:
 
 Python Programming
 
-NumPy
-
-Pandas
-
-Matplotlib
-
+NumPy , 
+Pandas , 
+Matplotlib , 
 Scikit-learn
+
 
 📂 Repository Contents
 
@@ -34,7 +32,7 @@ Scikit-learn
 
 📊 Data analysis and visualization scripts
 
-🤖 Machine Learning model implementations
+🤖 Machine Learning and Deep Learning model implementations
 
 📈 Result outputs and performance metrics
 
